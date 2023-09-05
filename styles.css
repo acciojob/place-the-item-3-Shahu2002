@@ -3,6 +3,6 @@
 .holder{
 	display:flex;
 	align-item:center;
-	justify-content:space-around;
+	justify-content:space-evenly;
 	flex-wrap:wrap;
 }
